@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Sprite Atlas
+  m_EditorClassIdentifier: 
+  m_GroupName: Sprite Atlas
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 989cf84ca15a2ad4c8c447555339f81c
+  m_SerializeEntries:
+  - m_GUID: 022c2a76f61c687498c2abdb00b5427a
+    m_Address: common game
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - common
+    - sprite atlas
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 084380261133b3541b32a38ca01378fe
+    m_Address: option_border
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - common
+    - sprite atlas
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10d8576d7ff058f4e83759b9898852ac
+    m_Address: weapon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - sprite atlas
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3be54c67099237741bbd9ffd851b52ab
+    m_Address: avatar
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - common
+    - sprite atlas
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c99425f3c1f3b34193bf7363d6ef4bb
+    m_Address: avatar_frame
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - common
+    - sprite atlas
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62e081c963517494e82165aab1edd8d1
+    m_Address: display_box
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - common
+    - sprite atlas
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87417fc8dc7b3a14a997bbfe0d6da17d
+    m_Address: environment
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - sprite atlas
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd58576fa73fe7345ad44b8c72bfca21
+    m_Address: hourglass
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - common
+    - sprite atlas
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dee5219972eac514db9c1a45808ce01c
+    m_Address: slider
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - common
+    - sprite atlas
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f70df0bcfb5bf0e4aa43555967a85fbc
+    m_Address: background
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - common
+    - sprite atlas
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 8abae5561a3729049b578eb21db63940, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 086df3a1dc97edf4f85d6e95c63f6cd9, type: 2}
+    - {fileID: 11400000, guid: 36f2d2c314b5c1148a9755f8955fa306, type: 2}

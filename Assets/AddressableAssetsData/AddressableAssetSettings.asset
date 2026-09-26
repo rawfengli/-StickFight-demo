@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468a46d0ae32c3544b7d98094e6448a9, type: 3}
+  m_Name: AddressableAssetSettings
+  m_EditorClassIdentifier: 
+  m_DefaultGroup: 2f8349a6ad542de46908c5d1cac1de04
+  m_currentHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_OptimizeCatalogSize: 0
+  m_BuildRemoteCatalog: 1
+  m_BundleLocalCatalog: 0
+  m_CatalogRequestsTimeout: 0
+  m_DisableCatalogUpdateOnStart: 1
+  m_IgnoreUnsupportedFilesInBuild: 0
+  m_UniqueBundleIds: 0
+  m_NonRecursiveBuilding: 1
+  m_CCDEnabled: 0
+  m_maxConcurrentWebRequests: 3
+  m_ContiguousBundles: 1
+  m_StripUnityVersionFromBundleBuild: 0
+  m_DisableVisibleSubAssetRepresentations: 0
+  m_ShaderBundleNaming: 0
+  m_ShaderBundleCustomNaming: 
+  m_MonoScriptBundleNaming: 0
+  m_CheckForContentUpdateRestrictionsOption: 0
+  m_MonoScriptBundleCustomNaming: 
+  m_RemoteCatalogBuildPath:
+    m_Id: fc5272d0d0d224d449051766e2e9c32e
+  m_RemoteCatalogLoadPath:
+    m_Id: 2d57b31273a807b46a1dc407ab6ce12b
+  m_ContentStateBuildPathProfileVariableName: <default settings path>
+  m_CustomContentStateBuildPath: 
+  m_ContentStateBuildPath: 
+  m_BuildAddressablesWithPlayerBuild: 0
+  m_overridePlayerVersion: '[UnityEditor.PlayerSettings.bundleVersion]'
+  m_GroupAssets:
+  - {fileID: 11400000, guid: b08e067b99f230841bca38651feeb3f8, type: 2}
+  - {fileID: 11400000, guid: 3504dddc5b7a620429de75cb260e6d6e, type: 2}
+  - {fileID: 11400000, guid: 9ce8a33d13ffdf640b4bd2c24886f219, type: 2}
+  - {fileID: 11400000, guid: 6a0e6962038ec4640bf7629c2d3c4d5e, type: 2}
+  - {fileID: 11400000, guid: a4c2cf660de0eee4e9b1b15508fad0de, type: 2}
+  - {fileID: 11400000, guid: d6ea2edcbe1d4e04d87394dc79804f91, type: 2}
+  - {fileID: 11400000, guid: dbf419b2bc782254f8dcd43595c133b1, type: 2}
+  - {fileID: 11400000, guid: 33f16903c04436a4fac34b9533876297, type: 2}
+  - {fileID: 11400000, guid: af70c94fb3ce08148a7c54db718db0af, type: 2}
+  - {fileID: 11400000, guid: c0e9e3d00267e1c4b8fc183cfa46ee93, type: 2}
+  - {fileID: 11400000, guid: 00eb462664a15374c915f1b38fbec50c, type: 2}
+  m_BuildSettings:
+    m_CompileScriptsInVirtualMode: 0
+    m_CleanupStreamingAssetsAfterBuilds: 1
+    m_LogResourceManagerExceptions: 1
+    m_BundleBuildPath: Temp/com.unity.addressables/AssetBundles
+  m_ProfileSettings:
+    m_Profiles:
+    - m_InheritedParent: 
+      m_Id: ed488a24d75b51f499cced6b0b68872c
+      m_ProfileName: Default
+      m_Values:
+      - m_Id: 19d9e117221bf8d478216f208e409bca
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 2d57b31273a807b46a1dc407ab6ce12b
+        m_Value: http://[PrivateIpAddress]:[HostingServicePort]
+      - m_Id: 4406f4725a6a4954da7a811e7d220a9b
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 7cab581a3af56744bba1e97875eb11d2
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: fc5272d0d0d224d449051766e2e9c32e
+        m_Value: ServerData/[BuildTarget]
+    m_ProfileEntryNames:
+    - m_Id: 19d9e117221bf8d478216f208e409bca
+      m_Name: Local.LoadPath
+      m_InlineUsage: 0
+    - m_Id: 2d57b31273a807b46a1dc407ab6ce12b
+      m_Name: Remote.LoadPath
+      m_InlineUsage: 0
+    - m_Id: 4406f4725a6a4954da7a811e7d220a9b
+      m_Name: BuildTarget
+      m_InlineUsage: 0
+    - m_Id: 7cab581a3af56744bba1e97875eb11d2
+      m_Name: Local.BuildPath
+      m_InlineUsage: 0
+    - m_Id: fc5272d0d0d224d449051766e2e9c32e
+      m_Name: Remote.BuildPath
+      m_InlineUsage: 0
+    m_ProfileVersion: 1
+  m_LabelTable:
+    m_LabelNames:
+    - default
+    - prefab
+    - common
+    - avatar
+    - ingame
+    - scene object
+    - player
+    - weapon
+    - bullet
+    - material
+    - shader
+    - audio
+    - sprite atlas
+    - scene
+    - particles
+  m_SchemaTemplates: []
+  m_GroupTemplateObjects:
+  - {fileID: 11400000, guid: 8b1c89a22aec1e5479121f0ea9bce4dd, type: 2}
+  - {fileID: 11400000, guid: 92fd6159d00bcf54c8a0edc67691ac0c, type: 2}
+  m_InitializationObjects: []
+  m_CertificateHandlerType:
+    m_AssemblyName: 
+    m_ClassName: 
+  m_ActivePlayerDataBuilderIndex: 3
+  m_DataBuilders:
+  - {fileID: 11400000, guid: 517e813bb3001714d9f04d5f96697caf, type: 2}
+  - {fileID: 11400000, guid: 7d90a1afa57cb074dbf8c67f05aa91cc, type: 2}
+  - {fileID: 11400000, guid: 611b407a1255ee0438823a08745eb545, type: 2}
+  - {fileID: 11400000, guid: 1669304be669f8c4fb07e1d08bfa5bf3, type: 2}
+  m_ActiveProfileId: ed488a24d75b51f499cced6b0b68872c
+  m_HostingServicesManager:
+    m_HostingServiceInfos: []
+    m_Settings: {fileID: 11400000}
+    m_NextInstanceId: 0
+    m_RegisteredServiceTypeRefs: []
+    m_PingTimeoutInMilliseconds: 5000

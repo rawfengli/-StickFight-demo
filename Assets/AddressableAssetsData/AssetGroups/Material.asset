@@ -1,0 +1,186 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Material
+  m_EditorClassIdentifier: 
+  m_GroupName: Material
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 531624bb1a1b9cf4396039450966180a
+  m_SerializeEntries:
+  - m_GUID: 011b08e87b992e848b2f7cd39a6f83e1
+    m_Address: material bullet hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02f9b4d259b082b419e842a5b7c567c1
+    m_Address: material Hp Green
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0debb2bf018525147af455adbf459d46
+    m_Address: material street light
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15ca923e874dadc49877cf697e1df1fb
+    m_Address: material stickman red
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 172b459d4ac463d4ea0596d34b21da0e
+    m_Address: material Hp Red
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1fc141eb29758654a9521413cd7c18c9
+    m_Address: material hit particle default
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 376c768e0508e3b478e9f030b25446bb
+    m_Address: material hand attack particle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a674408937b6d240a43140bce90885d
+    m_Address: material hit particle red
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3dfaaa13394134e498a138e589b03d62
+    m_Address: material stickman green
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f95f4142e874564c8e12342668f69a9
+    m_Address: material hit particle yellow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c381da6f3b13fd4cbfc676800c4d8bd
+    m_Address: material bullet tail
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 608e53f534fc6d947af7135e02072022
+    m_Address: material hourglass
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - common
+    - material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6930ea9e8a9140d4f95a5fff5bcfb44e
+    m_Address: material bullet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69cbe0625c669f548b62cc7364151e5a
+    m_Address: material stickman default
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6cc77b9c872ac3d469042d41b2cb5f57
+    m_Address: material stickman yellow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 719effc0704dd024e8ca19dcf0de38ee
+    m_Address: material Hp Default
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73d595de27c1c0143b848be7486a86b1
+    m_Address: material stickman blue
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af5e16f2a06ae5348977f38ce0cb0cdc
+    m_Address: material hit particle blue
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0ea747282c1cdc4691ddbf2bee98096
+    m_Address: material Hp Blue
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6755f419b60923418f059237db0845c
+    m_Address: material hit particle green
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6c1588c5e4e97d42a9a0477ca4718b1
+    m_Address: material bullet fire
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec4f44569af702340adc516a84e36699
+    m_Address: material particle jump
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f2d0560783aad164c84e71ed0415ed2b
+    m_Address: material Hp Yellow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - material
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 8abae5561a3729049b578eb21db63940, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a53709ee77c75404285c99da2ed33a0f, type: 2}
+    - {fileID: 11400000, guid: 0847face25f0e8947938bb2a8ada2a0d, type: 2}

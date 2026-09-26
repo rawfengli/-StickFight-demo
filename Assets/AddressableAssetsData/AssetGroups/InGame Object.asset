@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: InGame Object
+  m_EditorClassIdentifier: 
+  m_GroupName: InGame Object
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7597ae87d474c20458b0570413593ff7
+  m_SerializeEntries:
+  - m_GUID: 301f7972db84a354eb6c3e5e6b5ac4db
+    m_Address: Ground
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88fa994ba0c88ef4cbf97aa5c7a167ee
+    m_Address: Player Hp Displayer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c70681fbd814f942b8aa728756a10ab
+    m_Address: Stick Man
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - player
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be76bbe019984184fa622a540788159b
+    m_Address: Street Light
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fbb9d2fe9b8e5df489dcecd6503f7d0c
+    m_Address: Winner UI
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 8abae5561a3729049b578eb21db63940, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 381bd24773a3a764db23c311a3acfd2c, type: 2}
+    - {fileID: 11400000, guid: 6fae3694864d16f47b9d49ad537c9628, type: 2}

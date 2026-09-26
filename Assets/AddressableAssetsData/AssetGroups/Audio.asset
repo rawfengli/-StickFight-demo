@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Audio
+  m_EditorClassIdentifier: 
+  m_GroupName: Audio
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 22beaff7c5cdff647b00d89c1f1095b0
+  m_SerializeEntries:
+  - m_GUID: 3c03ccfac58826940a6ec8a92a444e94
+    m_Address: common_button_released
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - audio
+    - common
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9022d94751afa644f8ee867c75745408
+    m_Address: shotgun_shot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - audio
+    - ingame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9423725db858ea847b11c70eb304329c
+    m_Address: pistol_shot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - audio
+    - ingame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4f3f0314081d4841988104468d1e7fa
+    m_Address: common_button_hover
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - audio
+    - common
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 8abae5561a3729049b578eb21db63940, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c172e28f8bf7eb9459d1b3dfd4410f90, type: 2}
+    - {fileID: 11400000, guid: f51671dc751a84241b04020e05a9c5ef, type: 2}

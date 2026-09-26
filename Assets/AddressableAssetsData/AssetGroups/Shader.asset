@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shader
+  m_EditorClassIdentifier: 
+  m_GroupName: Shader
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c8e14e9baeae8e442b29819b8b3bc256
+  m_SerializeEntries:
+  - m_GUID: 04586200d7d57ce44836a4cd81c58a89
+    m_Address: shader_gaussianblur
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - shader
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12d0e04c3ce138a4da731b68ad018f1b
+    m_Address: gaussianblur
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - shader
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 273f0c34cceb7c1479e8dd9715b7e86e
+    m_Address: shader stickman
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - shader
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29f94cc1c824dfe49b1d8bd8bebb319e
+    m_Address: HDR Default
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - shader
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a32bd2fd8329074c90fe0ceea75c5d0
+    m_Address: Blit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - shader
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3acb3a6640c259e4fa0cd8f8495bc26c
+    m_Address: HDR
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - shader
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d93981b3ba4b4748a819c69fdd52eba
+    m_Address: prefilter
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - shader
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f927b291679841479b1bf7acb700387
+    m_Address: shader Hp Circle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - shader
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d4e9e2bbbd27174db61728f6af950ca
+    m_Address: shader bullet fire
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - shader
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8251e9b77d6eb36438a0fbf90a302f0a
+    m_Address: shader common particle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - shader
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6da6e88bfd168e419f2b1364c96d5a6
+    m_Address: gradientnoise2D
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - shader
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cacc971f80a022544805828cc84a929c
+    m_Address: shader_hourglass
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - common
+    - shader
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: edff7d7ecd74c89469b23dc251c61305
+    m_Address: shader bloom
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - shader
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 8abae5561a3729049b578eb21db63940, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a2d77d8a8e20e4144a816b0e19811779, type: 2}
+    - {fileID: 11400000, guid: 047c6622056356947aeea0c2fcb5631f, type: 2}

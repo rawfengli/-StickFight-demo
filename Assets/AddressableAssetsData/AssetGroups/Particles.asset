@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Particles
+  m_EditorClassIdentifier: 
+  m_GroupName: Particles
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 79d7dbbcffbfdd64f91ee9fa090d1735
+  m_SerializeEntries:
+  - m_GUID: 121dfaf56137ba045805b4cf8bd764d0
+    m_Address: Dust Particles
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - particles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a4b5709a6b540c4e861170bf8004486
+    m_Address: Hand Attack Particle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - particles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7977f51b0f8433147b722f6a8169cc6b
+    m_Address: Bullet Hit Ground Particles
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - particles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79fcaeb323f407d4cbeb614dfed45571
+    m_Address: Jump Particle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - particles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b884f59fd043424448b7602672e568c4
+    m_Address: Hand Hit Body Particles
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - particles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db3469dd423060845aef1c5305d92b0f
+    m_Address: Bullet Hit Body Particles
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ingame
+    - particles
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 8abae5561a3729049b578eb21db63940, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0440a229f22542d4fae7902cf3c9b9a0, type: 2}
+    - {fileID: 11400000, guid: 07ad3c39a30151b48814d3c9e8eb0212, type: 2}
